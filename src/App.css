@@ -1,3 +1,20 @@
-.contact-img{
-    margin-top: -70px;
+.landing-page{
+    background:  white url("./assets/images/bg.jpg") scroll center;
+    background-size: cover;
+    height: 100vh;
+    color: navajowhite;
+}
+
+.wrapper{
+    height: 100%;
+    background-color: rgba(0,0,0, 0.5);
+}
+
+.input{
+    border-radius: 5px;
+    outline: none;
+}
+
+.table tr td {
+    cursor: pointer;
 }
